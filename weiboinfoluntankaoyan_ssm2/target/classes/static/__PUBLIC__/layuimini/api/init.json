@@ -1,0 +1,64 @@
+{
+  "homeInfo": {
+    "title": "用户管理",
+    "href": "user.html"
+  },
+  "logoInfo": {
+    "title": "后台管理系统",
+    "image": "./__PUBLIC__/images/login/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "系统管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+
+        {
+          "title": "用户管理",
+          "href": "user.html",
+          "icon": "fa fa-window-maximize",
+          "target": "_self"
+        },
+        {
+          "title": "推荐信息管理",
+          "href": "blog.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "用户交流管理",
+          "href": "blog2.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "分类管理",
+          "href": "type.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "考研资讯",
+          "href": "notice.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "院校信息",
+          "href": "notice2.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "研友交流",
+          "href": "postsreplay.html",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
